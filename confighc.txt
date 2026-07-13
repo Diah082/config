@@ -1,42 +1,26 @@
-AXIS_SUSHIROLL_Newbie_11_13Jul.dark|https://sfile.co/UgXExSEeW1A
-AXIS_SUSHIROLL_Newbie_11_13Jul.hc|https://sfile.co/y99tx8zVKsF
-AXIS_WA_CHAT_Newbie_11_13Jul.dark|https://sfile.co/Lj6LHlyrf90
-AXIS_WA_CHAT_Newbie_11_13Jul.hc|https://sfile.co/3YDCTWLZ1r0
-ISAT_APPFUNS_Newbie_11_13Jul.dark|https://sfile.co/2GfSmRjltsU
-ISAT_APPFUNS_Newbie_11_13Jul.hc|https://sfile.co/FQHgsVdgIpO
-ISAT_EDU_30_GB_Newbie_11_13Jul.dark|https://sfile.co/VbVTpRpF1Hy
-ISAT_EDU_30_GB_Newbie_11_13Jul.hc|https://sfile.co/bkfXkG4Hrkr
-SMARTFREN_CHAT_NONSTOP_Newbie_11_13Jul.dark|https://sfile.co/GTgt80gjvNA
-SMARTFREN_CHAT_NONSTOP_Newbie_11_13Jul.hc|https://sfile.co/dw378zrAJhA
-TSEL_BYU_TIKTOK_Newbie_11_13Jul.dark|https://sfile.co/9jiIQkVYbVT
-TSEL_BYU_TIKTOK_Newbie_11_13Jul.hc|https://sfile.co/qKqfB2b8ZWr
-TSEL_GAMEMAX_Newbie_11_13Jul.dark|https://sfile.co/gcAwvTgpp0m
-TSEL_GAMEMAX_Newbie_11_13Jul.hc|https://sfile.co/MYGtO3kDhkn
-TSEL_HALLO_FLEXY_Newbie_11_13Jul.dark|https://sfile.co/pH5piyh4Acg
-TSEL_HALLO_FLEXY_Newbie_11_13Jul.hc|https://sfile.co/qOA37qDu2Si
-TSEL_ILPED_NEW_Newbie_11_13Jul.dark|https://sfile.co/fIildDm1vEX
-TSEL_ILPED_NEW_Newbie_11_13Jul.hc|https://sfile.co/T2GbQ71lafP
-XL_AXIS_CONFRECE_JABAR_SUMATRA_Newbie_11_13Jul.dark|https://sfile.co/T9DIFXAkNQU
-XL_AXIS_CONFRECE_JABAR_SUMATRA_Newbie_11_13Jul.hc|https://sfile.co/4og1GfOz6Xj
-XL_AXIS_CONFRECE_NON_JABAR_SUMATRA_Newbie_11_13Jul.dark|https://sfile.co/682D8Mnmh8d
-XL_AXIS_CONFRECE_NON_JABAR_SUMATRA_Newbie_11_13Jul.hc|https://sfile.co/v6q4YWWOTHR
-XL_AXIS_EDUKASI_ALL_TKP_Newbie_11_13Jul.dark|https://sfile.co/9nym7CBWkE2
-XL_AXIS_EDUKASI_ALL_TKP_Newbie_11_13Jul.hc|https://sfile.co/IK4Otk2PwRI
-XL_AXIS_EDUKASI_NJS_Newbie_11_13Jul.dark|https://sfile.co/NARnJWK31Q0
-XL_AXIS_EDUKASI_NJS_Newbie_11_13Jul.hc|https://sfile.co/OtDgxWGKv3D
-XL_AXIS_GAME_Newbie_11_13Jul.dark|https://sfile.co/xBBuO22tIK5
-XL_AXIS_GAME_Newbie_11_13Jul.hc|https://sfile.co/Ubq8zaNn3ll
-XL_AXIS_GRAB_Newbie_11_13Jul.dark|https://sfile.co/lh6Gn1Al54b
-XL_AXIS_GRAB_Newbie_11_13Jul.hc|https://sfile.co/8eyulW4cN33
-XL_AXIS_MUSIK_Newbie_11_13Jul.dark|https://sfile.co/EA4QMbm9yCu
-XL_AXIS_MUSIK_Newbie_11_13Jul.hc|https://sfile.co/MU0cpJ3roRL
-XL_AXIS_WA_JABAR_SUMATRA_Newbie_11_13Jul.dark|https://sfile.co/HDsFv6Oq79u
-XL_AXIS_WA_JABAR_SUMATRA_Newbie_11_13Jul.hc|https://sfile.co/V7ZzzgwU7lo
-XL_AXIS_WA_NON_JABAR_SUMATRA_Newbie_11_13Jul.dark|https://sfile.co/hR7AHSnExm5
-XL_AXIS_WA_NON_JABAR_SUMATRA_Newbie_11_13Jul.hc|https://sfile.co/6yDseRvgfpe
-XL_IFLIX_Newbie_11_13Jul.dark|https://sfile.co/5MLs4rj3JPO
-XL_IFLIX_Newbie_11_13Jul.hc|https://sfile.co/zWJGJw0vkpZ
-XL_OPOK_PRIO_Newbie_11_13Jul.dark|https://sfile.co/1AUyQ5J7rmy
-XL_OPOK_PRIO_Newbie_11_13Jul.hc|https://sfile.co/m1k6zDf2BQZ
-XL_TIKTOK_THREE_SOSMED_Newbie_11_13Jul.dark|https://sfile.co/yhFEILx7e1s
-XL_TIKTOK_THREE_SOSMED_Newbie_11_13Jul.hc|https://sfile.co/CmaC8xwLZ9D
+AXIS SUSHIROLL NEWBIESTORE V354.hc|https://sfile.co/MoB13oyaIVN
+AXIS WA CHAT NEWBIESTORE V354.hc|https://sfile.co/7LxRbQxjZul
+ISAT APPFUNS NEWBIESTORE.hc|https://sfile.co/MeSfqP253c9
+ISAT EDU 30 GB NEWBIESTORE.hc|https://sfile.co/eHbdOTuvbJU
+SMARTFREN CHAT NONSTOP NEWBIESTORE.hc|https://sfile.co/PWk8BObro6J
+TSEL BYU TIKTOK NEWBIESTORE.hc|https://sfile.co/Ua88oYwTh3W
+TSEL GAMEMAX NEWBIESTORE.hc|https://sfile.co/vvpQRcUcJCX
+TSEL HALLO FLEXY NEWBIESTORE.hc|https://sfile.co/BVm5Os7lcCI
+TSEL ILPED NEW NEWBIESTORE.hc|https://sfile.co/RUyga0i2npF
+XL AXIS GAME NEWBIESTORE.hc|https://sfile.co/6CNTuJkct6E
+XL AXIS GRAB NEWBIESTORE.hc|https://sfile.co/qr74PcteJxb
+XL AXIS IG NEWBIESTORE.hc|https://sfile.co/xQYAsAWRIeB
+XL AXIS VIDIO NEWBIESTORE.hc|https://sfile.co/rXtXIfEXo2V
+XL AXIS WA JABAR SUMATRA NEWBIESTORE.hc|https://sfile.co/Tbk7Aladpa5
+XL AXIS WA NON JABAR SUMATRA NEWBIESTORE.hc|https://sfile.co/Je3e6tjdmyV
+XL CHAT PLAY NEWBIESTORE.hc|https://sfile.co/hqiXGTTQDRB
+XL IFLIX NEWBIESTORE.hc|https://sfile.co/p5bgnIVvW7D
+XL OPOK PRIO NEWBIESTORE.hc|https://sfile.co/KKcTC30eQuK
+XL TIKTOKTHREE SOSMED NEWBIESTORE.hc|https://sfile.co/hU1Ylol04fX
+XL VISION NEWBIESTORE.hc|https://sfile.co/mcPxkN58Z8Q
+XLAXIS CONFRECE JABAR SUMATRA NEWBIESTORE.hc|https://sfile.co/c6CReJuNdwG
+XLAXIS CONFRECE NON JABAR SUMATRA NEWBIESTORE.hc|https://sfile.co/dOiMkyJPViL
+XLAXIS EDUKASI ALL TKP NEWBIESTORE.hc|https://sfile.co/JoI8kQaTK9A
+XLAXIS EDUKASI JABAR SUMATRA NEWBIESTORE.hc|https://sfile.co/rrhMGwDfTy7
+XLAXIS EDUKASI NJS NEWBIESTORE.hc|https://sfile.co/WERlU4dool9
+XLAXIS MUSIK SPOTIFY NEWBIESTORE.hc|https://sfile.co/LNO5859TS06
