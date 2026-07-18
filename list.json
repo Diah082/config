@@ -1,6 +1,6 @@
 [
  {
- "id":41,
+ "id":58,
  "name":"SCRIPT TUNNELING VPN",
  "desc":"Auto Script Tunneling Untuk membuat server VPn dengan Menggunakan VPs Linux",
  "price":25000,
@@ -9,7 +9,7 @@
  "img":"https://raw.githubusercontent.com/Diah082/Vip/main/Assets/Servers.jpg" },
 
  {
- "id":42,
+ "id":59,
  "name":"SERVER ID NEVA 1GB",
  "desc":"VPs Linux Bergaransi 1 Bulan Spesifikasi RAM 1GB dengan 1 CPu Isp Nevacloud Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia",
  "price":80000,
@@ -18,7 +18,7 @@
  "img":"https://raw.githubusercontent.com/Diah082/Vip/main/Assets/Servers.jpg" },
 
  {
- "id":43,
+ "id":60,
  "name":"SERVER ID NEVA 2GB",
  "desc":"VPs Linux Bergaransi 1 Bulan Spesifikasi RAM 2GB dengan 2 CPu Isp Nevacloud Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia",
  "price":130000,
@@ -27,7 +27,7 @@
  "img":"https://raw.githubusercontent.com/Diah082/Vip/main/Assets/Servers.jpg" },
 
  {
- "id":48,
+ "id":61,
  "name":"SERVER ID BIZNET 1GB",
  "desc":"VPs Linux Bergaransi 1 Bulan Spesifikasi RAM 1GB dengan 1 CPu Isp Biznet Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia",
  "price":100000,
@@ -36,7 +36,7 @@
  "img":"https://raw.githubusercontent.com/Diah082/Vip/main/Assets/Servers.jpg" },
 
  {
- "id":49,
+ "id":62,
  "name":"SERVER ID BIZNET 2GB",
  "desc":"VPs Linux Bergaransi 1 Bulan Spesifikasi RAM 2GB dengan 2 CPu Isp Biznet Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia",
  "price":150000,
@@ -45,7 +45,7 @@
  "img":"https://raw.githubusercontent.com/Diah082/Vip/main/Assets/Servers.jpg" },
 
  {
- "id":42,
+ "id":63,
  "name":"SERVER ID VPN 1GB",
  "desc":"VPs Linux Bergaransi 1 Bulan Spesifikasi RAM 1GB dengan 1 CPu Isp Nevacloud Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia",
  "price":80000,
@@ -54,7 +54,7 @@
  "img":"https://raw.githubusercontent.com/Diah082/Vip/main/Assets/Servers.jpg" },
 
  {
- "id":50,
+ "id":64,
  "name":"SERVER SG LEASWEB 6GB",
  "desc":"VPs Linux Bergaransi 1 Bulan Spesifikasi RAM 6GB dengan 4 CPu Isp LEASWEB Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia",
  "price":300000,
@@ -175,7 +175,7 @@
  "name": "THREE SOSMED",
  "desc": "Config Untuk Paket Sosmed Three Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3",
  "price": 10000,
- "cat": "IM3",
+ "cat": "TRI",
  "masa_aktif": "30 HARI",
  "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/appfuns.jpg" },
 
@@ -328,7 +328,7 @@
  "name": "THREE SOSMED",
  "desc": "Config Untuk Paket Sosmed Three Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3",
  "price": 5000,
- "cat": "IM3",
+ "cat": "TRI",
  "masa_aktif": "15 HARI",
  "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/appfuns.jpg" },
 
@@ -481,7 +481,7 @@
  "name": "THREE SOSMED",
  "desc": "Config Untuk Paket Sosmed Three Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3",
  "price": 3000,
- "cat": "IM3",
+ "cat": "TRI",
  "masa_aktif": "7 HARI",
  "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/appfuns.jpg" },
 
