@@ -1,34 +1,68 @@
-AXIS OPOK 100 MB NEWBIE 4 6 AGT.hc|https://sfile.co/LopNEiBXOYY
-AXIS SUSHIROLL NEWBIE 4 6 AGT.hc|https://sfile.co/NMpSS5efBON
-AXIS UNLI GAME NEWBIE 4 6 AGT.hc|https://sfile.co/uz3bcyeT5d3
-ISAT APPFUNS NEWBIE 4 6 AGT.hc|https://sfile.co/lMl5nE80Gj8
-ISAT EDU 12 GB NEWBIE 4 6 AGT.hc|https://sfile.co/kESINggHB4G
-SMARTFREN CHAT NONSTOP NEWBIE 4 6 AGT.hc|https://sfile.co/qlCKSU4XdWC
-SMARTFREN OPOK NEWBIE 4 6 AGT.hc|https://sfile.co/ZNGcEeplTEL
-TELKOMSEL OPOK NEWBIE 4 6 AGT.hc|https://sfile.co/GLUmEaSVs3V
-TRI OPOK NEWBIE 4 6 AGT.hc|https://sfile.co/vQzWR3lqsBD
-TSEL BYU TIKTOK NEWBIE 4 6 AGT.hc|https://sfile.co/Rh55uN1BzUu
-TSEL GAMEMAX NEWBIE 4 6 AGT.hc|https://sfile.co/0aOWVPma7no
-TSEL HALLO FLEXY NEWBIE 4 6 AGT.hc|https://sfile.co/f5jLP6HwGTt
-TSEL ILPED NEW NEWBIE 4 6 AGT.hc|https://sfile.co/uPm4l9Ok6A5
-TSEL ILPED SSL NEWBIE 4 6 AGT.hc|https://sfile.co/bM0MS7lIqXB
-XL AXIS CONFRECE JABAR SUMATRA NEWBIE 4 6 AGT.hc|https://sfile.co/L21LSLOVdNX
-XL AXIS CONFRECE NON JABAR SUMATRA NEWBIE 4 6 AGT.hc|https://sfile.co/PpPTUyaTcun
-XL AXIS EDUKASI JABAR SUMATRA NEWBIE 4 6 AGT.hc|https://sfile.co/kmF5g1xuPsT
-XL AXIS EDUKASI JABAR V1 NEWBIE 4 6 AGT.hc|https://sfile.co/TKuzwueW54i
-XL AXIS EDUKASI NJS NEWBIE 4 6 AGT.hc|https://sfile.co/CAMwsBB8sRa
-XL AXIS FB SOSMED NEWBIE 4 6 AGT.hc|https://sfile.co/ebtFO1AUyxv
-XL AXIS GAME NEWBIE 4 6 AGT.hc|https://sfile.co/2Evt55xboIf
-XL AXIS GRAB NEWBIE 4 6 AGT.hc|https://sfile.co/qj92Lp0Ub38
-XL AXIS IG NEWBIE 4 6 AGT.hc|https://sfile.co/0Hh4MSM4vQ7
-XL AXIS MUSIK SPOTIFY NEWBIE 4 6 AGT.hc|https://sfile.co/yhuUrv7rKid
-XL AXIS VIDIO NEWBIE 4 6 AGT.hc|https://sfile.co/UAxIz012LAe
-XL AXIS WA JABAR NEWBIE 4 6 AGT.hc|https://sfile.co/BAEvXL7wQg0
-XL AXIS WA JABAR V1 NEWBIE 4 6 AGT.hc|https://sfile.co/KfrafaS1p6Z
-XL AXIS WA NON JABAR SUMATRA NEWBIE 4 6 AGT.hc|https://sfile.co/8oi12HxCP77
-XL AXIS WA SUMATRA NEWBIE 4 6 AGT.hc|https://sfile.co/gTqXiMAp92W
-XL CHAT PLAY NEWBIE 4 6 AGT.hc|https://sfile.co/AfuFLyJ8DEm
-XL IFLIX NEWBIE 4 6 AGT.hc|https://sfile.co/tnfiVqwnXUx
-XL OPOK PRIO NEWBIE 4 6 AGT.hc|https://sfile.co/4Fwg31kyTwV
-XL TIKTOKTHREE SOSMED NEWBIE 4 6 AGT.hc|https://sfile.co/NNOkwy8Uatx
-XL VISION NEWBIE 4 6 AGT.hc|https://sfile.co/HIVGNiOyyzA
+AXIS OPOK 100 MB NEWBIE 8 10 AGT.dark|https://sfile.co/YWDa1FBiSpB
+AXIS OPOK 100 MB NEWBIE 8 10 AGT.hc|https://sfile.co/zlGnmdfPSTh
+AXIS SUSHIROLL NEWBIE 8 10 AGT.dark|https://sfile.co/1r1aOWcTGwZ
+AXIS SUSHIROLL NEWBIE 8 10 AGT.hc|https://sfile.co/4dIZ8wgmhQt
+AXIS UNLI GAME NEWBIE 8 10 AGT.dark|https://sfile.co/ITVg1qtB7fY
+AXIS UNLI GAME NEWBIE 8 10 AGT.hc|https://sfile.co/OTF4xQtVTdm
+ISAT APPFUNS NEWBIE 8 10 AGT.dark|https://sfile.co/efaI0pvKt5F
+ISAT APPFUNS NEWBIE 8 10 AGT.hc|https://sfile.co/ZMomucuCJdi
+ISAT EDU 12 GB NEWBIE 8 10 AGT.dark|https://sfile.co/QrmsMehV6c6
+ISAT EDU 12 GB NEWBIE 8 10 AGT.hc|https://sfile.co/iEzM2BujupO
+SMARTFREN CHAT NONSTOP NEWBIE 8 10 AGT.dark|https://sfile.co/ZChgWKV6EWr
+SMARTFREN CHAT NONSTOP NEWBIE 8 10 AGT.hc|https://sfile.co/IjXeslhD9M9
+SMARTFREN OPOK NEWBIE 8 10 AGT.dark|https://sfile.co/ffZYAfJXP4N
+SMARTFREN OPOK NEWBIE 8 10 AGT.hc|https://sfile.co/CFGL8QNEvKa
+TELKOMSEL OPOK NEWBIE 8 10 AGT.dark|https://sfile.co/xadit0XqQhU
+TELKOMSEL OPOK NEWBIE 8 10 AGT.hc|https://sfile.co/qUXBQWQdli7
+TRI OPOK NEWBIE 8 10 AGT.dark|https://sfile.co/BpxVR3GPnxZ
+TRI OPOK NEWBIE 8 10 AGT.hc|https://sfile.co/vPyt5SbQCOO
+TSEL BYU TIKTOK NEWBIE 8 10 AGT.dark|https://sfile.co/SgKgnf8h1ZE
+TSEL BYU TIKTOK NEWBIE 8 10 AGT.hc|https://sfile.co/LvyO72yk2uv
+TSEL GAMEMAX NEWBIE 8 10 AGT.dark|https://sfile.co/kuu8EbIHeDM
+TSEL GAMEMAX NEWBIE 8 10 AGT.hc|https://sfile.co/G7knWz3EVxl
+TSEL HALLO FLEXY NEWBIE 8 10 AGT.dark|https://sfile.co/iIWwZhJkit7
+TSEL HALLO FLEXY NEWBIE 8 10 AGT.hc|https://sfile.co/9wNSfD8pWT8
+TSEL ILPED NEW NEWBIE 8 10 AGT.dark|https://sfile.co/2Qu79meLnWZ
+TSEL ILPED NEW NEWBIE 8 10 AGT.hc|https://sfile.co/FPr1iGrNH1p
+TSEL ILPED SSL NEWBIE 8 10 AGT.dark|https://sfile.co/5IwKk8Bb5YO
+TSEL ILPED SSL NEWBIE 8 10 AGT.hc|https://sfile.co/4r7Z6raD4ss
+XL AXIS CONFRECE JABAR SUMATRA NEWBIE 8 10 AGT.dark|https://sfile.co/lR7L39FylzT
+XL AXIS CONFRECE JABAR SUMATRA NEWBIE 8 10 AGT.hc|https://sfile.co/DkNOjSW6ZPa
+XL AXIS CONFRECE NON JABAR SUMATRA NEWBIE 8 10 AGT.dark|https://sfile.co/tvvorsSEpZp
+XL AXIS CONFRECE NON JABAR SUMATRA NEWBIE 8 10 AGT.hc|https://sfile.co/5jdSjamyOvM
+XL AXIS EDUKASI JABAR SUMATRA NEWBIE 8 10 AGT.dark|https://sfile.co/KPOPHrhWeZQ
+XL AXIS EDUKASI JABAR SUMATRA NEWBIE 8 10 AGT.hc|https://sfile.co/Fmaj0fJFCsL
+XL AXIS EDUKASI JABAR V1 NEWBIE 8 10 AGT.dark|https://sfile.co/HD9YDfvnbCh
+XL AXIS EDUKASI JABAR V1 NEWBIE 8 10 AGT.hc|https://sfile.co/ENBhMW0toSl
+XL AXIS EDUKASI NJS NEWBIE 8 10 AGT.dark|https://sfile.co/reLkX3UO9zZ
+XL AXIS EDUKASI NJS NEWBIE 8 10 AGT.hc|https://sfile.co/gnwCV2qkS3e
+XL AXIS FB SOSMED NEWBIE 8 10 AGT.dark|https://sfile.co/b0Eb0YJgzQm
+XL AXIS FB SOSMED NEWBIE 8 10 AGT.hc|https://sfile.co/mZR1pC1GOjD
+XL AXIS GAME NEWBIE 8 10 AGT.dark|https://sfile.co/35ySx0FgJhd
+XL AXIS GAME NEWBIE 8 10 AGT.hc|https://sfile.co/xu4RJStlE8A
+XL AXIS GRAB NEWBIE 8 10 AGT.dark|https://sfile.co/5Eb5Xf3fIHu
+XL AXIS GRAB NEWBIE 8 10 AGT.hc|https://sfile.co/l3rVBoXQHNS
+XL AXIS IG NEWBIE 8 10 AGT.dark|https://sfile.co/pYEFBkG70F0
+XL AXIS IG NEWBIE 8 10 AGT.hc|https://sfile.co/B9WyIzOoAFo
+XL AXIS MUSIK SPOTIFY NEWBIE 8 10 AGT.dark|https://sfile.co/Ozvfr1JFbXr
+XL AXIS MUSIK SPOTIFY NEWBIE 8 10 AGT.hc|https://sfile.co/nWqHl2pkpw2
+XL AXIS VIDIO NEWBIE 8 10 AGT.dark|https://sfile.co/0v2lAcrhK3p
+XL AXIS VIDIO NEWBIE 8 10 AGT.hc|https://sfile.co/OioFvhE4Qda
+XL AXIS WA JABAR NEWBIE 8 10 AGT.dark|https://sfile.co/Trnokd4mCz4
+XL AXIS WA JABAR NEWBIE 8 10 AGT.hc|https://sfile.co/dTSRFrTorxl
+XL AXIS WA JABAR V1 NEWBIE 8 10 AGT.dark|https://sfile.co/5F2F6Vrufl3
+XL AXIS WA JABAR V1 NEWBIE 8 10 AGT.hc|https://sfile.co/RrzuQVMg0dk
+XL AXIS WA NON JABAR SUMATRA NEWBIE 8 10 AGT.dark|https://sfile.co/NL92iA2tdoP
+XL AXIS WA NON JABAR SUMATRA NEWBIE 8 10 AGT.hc|https://sfile.co/Jd476IpwD1i
+XL AXIS WA SUMATRA NEWBIE 8 10 AGT.dark|https://sfile.co/W7sbxrCw0I1
+XL AXIS WA SUMATRA NEWBIE 8 10 AGT.hc|https://sfile.co/5vOZNSHCydj
+XL CHAT PLAY NEWBIE 8 10 AGT.dark|https://sfile.co/LWqU7kkiPPN
+XL CHAT PLAY NEWBIE 8 10 AGT.hc|https://sfile.co/ASy4WeMqKsc
+XL IFLIX NEWBIE 8 10 AGT.dark|https://sfile.co/VEL2KCMouOf
+XL IFLIX NEWBIE 8 10 AGT.hc|https://sfile.co/rKqLD9JhtW0
+XL OPOK PRIO NEWBIE 8 10 AGT.dark|https://sfile.co/S0RSAYJx0BR
+XL OPOK PRIO NEWBIE 8 10 AGT.hc|https://sfile.co/vKBMFUEvJ0G
+XL TIKTOKTHREE SOSMED NEWBIE 8 10 AGT.dark|https://sfile.co/3xxIJh89sv8
+XL TIKTOKTHREE SOSMED NEWBIE 8 10 AGT.hc|https://sfile.co/wZAKc0LK20y
+XL VISION NEWBIE 8 10 AGT.dark|https://sfile.co/kZmdGSGcpHT
+XL VISION NEWBIE 8 10 AGT.hc|https://sfile.co/oxPY0neiK2w
