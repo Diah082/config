@@ -73,10 +73,19 @@
 
  {
  "id": 2,
- "name": "AXIS MUSIK BOOSTER",
+ "name": "AXIS MUSIK SPOTIFY BOOSTER",
  "desc": "Config Untuk Paket MUSIK BOOSTER AXIS Tidak Termasuk Paket",
  "price": 10000,
  "cat": "AXIS",
+ "masa_aktif": "30 HARI",
+ "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
+
+  {
+ "id": 65,
+ "name": "XL AXIS SPOTIFY",
+ "desc": "Config Untuk Paket SPOTIFY Tidak Termasuk Paket",
+ "price": 10000,
+ "cat": "XL",
  "masa_aktif": "30 HARI",
  "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
 
@@ -250,6 +259,14 @@
  "cat": "AXIS",
  "masa_aktif": "15 HARI",
  "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
+{
+  "id": 66,
+ "name": "XL AXIS SPOTIFY",
+ "desc": "Config Untuk Paket SPOTIFY Tidak Termasuk Paket",
+ "price": 5000,
+ "cat": "XL",
+ "masa_aktif": "15 HARI",
+ "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
 
  {
  "id": 22,
@@ -401,6 +418,15 @@
  "desc": "Config Untuk Paket MUSIK BOOSTER AXIS Tidak Termasuk Paket",
  "price": 3000,
  "cat": "AXIS",
+ "masa_aktif": "7 HARI",
+ "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
+
+ {
+  "id": 67,
+ "name": "XL AXIS SPOTIFY",
+ "desc": "Config Untuk Paket SPOTIFY Tidak Termasuk Paket",
+ "price": 3000,
+ "cat": "XL",
  "masa_aktif": "7 HARI",
  "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
 
