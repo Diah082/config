@@ -57,9 +57,9 @@
  "id": 6,
  "name": "MASA AKTIF XL",
  "desc": "Pengisian Masa Aktif Untuk Kartu Provider XL",
- "price": 15000,
+ "price": 10000,
  "cat": "MASA AKTIF",
- "masa_aktif": "360 HARI",
+ "masa_aktif": "30 HARI",
  "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/masa aktif.jpg" },
 
  {
