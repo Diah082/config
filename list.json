@@ -52,25 +52,7 @@
  "cat": "XL",
  "masa_aktif": "30 HARI",
  "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
-
- {
- "id": 6,
- "name": "MASA AKTIF XL",
- "desc": "Pengisian Masa Aktif Untuk Kartu Provider XL",
- "price": 10000,
- "cat": "MASA AKTIF",
- "masa_aktif": "30 HARI",
- "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/masa aktif.jpg" },
-
- {
- "id": 7,
- "name": "MASA AKTIF AXIS",
- "desc": "Pengisian Masa Aktif Untuk Kartu Provider AXIS Bonus Kuota Game 1 GB",
- "price": 10000,
- "cat": "MASA AKTIF",
- "masa_aktif": "30 HARI",
- "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/masa aktif.jpg" },
-
+ 
  {
  "id": 8,
  "name": "XL IFLIX",
