@@ -7,6 +7,30 @@
  "cat": "AXIS",
  "masa_aktif": "30 HARI",
  "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
+ {
+ "id": 70,
+ "name": "XL OPOK",
+ "desc": "Config Untuk INTERNET GRATIS TANPA KUOTA",
+ "price": 15000,
+ "cat": "XL",
+ "masa_aktif": "30 HARI",
+ "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
+ {
+ "id": 71,
+ "name": "XL OPOK",
+ "desc": "Config Untuk INTERNET GRATIS TANPA KUOTA",
+ "price": 8000,
+ "cat": "XL",
+ "masa_aktif": "15 HARI",
+ "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
+ {
+ "id": 72,
+ "name": "XL OPOK",
+ "desc": "Config Untuk INTERNET GRATIS TANPA KUOTA",
+ "price": 5000,
+ "cat": "XL",
+ "masa_aktif": "7 HARI",
+ "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
 
  {
  "id": 2,
