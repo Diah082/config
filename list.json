@@ -32,6 +32,30 @@
  "masa_aktif": "7 HARI",
  "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
 
+  "id": 73,
+ "name": "Slowdns",
+ "desc": "Config Untuk INTERNET GRATIS TANPA KUOTA",
+ "price": 15000,
+ "cat": "XL",
+ "masa_aktif": "30 HARI",
+ "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
+ {
+ "id": 74,
+ "name": "Slowdns",
+ "desc": "Config Untuk INTERNET GRATIS TANPA KUOTA",
+ "price": 8000,
+ "cat": "XL",
+ "masa_aktif": "15 HARI",
+ "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
+ {
+ "id": 75,
+ "name": "Slowdns",
+ "desc": "Config Untuk INTERNET GRATIS TANPA KUOTA",
+ "price": 5000,
+ "cat": "XL",
+ "masa_aktif": "7 HARI",
+ "img": "https://raw.githubusercontent.com/Diah082/Vip/main/Assets/New.png" },
+
  {
  "id": 2,
  "name": "AXIS MUSIK SPOTIFY BOOSTER",
